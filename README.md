@@ -12,15 +12,15 @@
  
  
   
-  Tech Stack:
-    - Kotlin
-    - MVVM
-    - Pagination
-    - DI ( hilt or coin )
-    - Animations with MotionLayout
-    - Retrofit with Coroutines ( maybe flow if neccessary )
-    - Dark/Light Mode
-    - Single Activity
-    - Navigation Component
-    - KTS instead of Groovy
-    - DataStore
+# Tech Stack
+  - Kotlin
+  - MVVM
+  - Pagination
+  - DI ( hilt or coin )
+  - Animations with MotionLayout
+  - Retrofit with Coroutines ( maybe flow if neccessary )
+  - Dark/Light Mode
+  - Single Activity
+  - Navigation Component
+  - KTS instead of Groovy
+  - DataStore
